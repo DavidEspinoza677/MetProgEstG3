@@ -1,0 +1,14 @@
+C:\Users\itsda\Documents\Sesion 5 020924\UseIf\UseIf\bin\Debug\net8.0\UseIf.exe
+C:\Users\itsda\Documents\Sesion 5 020924\UseIf\UseIf\bin\Debug\net8.0\UseIf.deps.json
+C:\Users\itsda\Documents\Sesion 5 020924\UseIf\UseIf\bin\Debug\net8.0\UseIf.runtimeconfig.json
+C:\Users\itsda\Documents\Sesion 5 020924\UseIf\UseIf\bin\Debug\net8.0\UseIf.dll
+C:\Users\itsda\Documents\Sesion 5 020924\UseIf\UseIf\bin\Debug\net8.0\UseIf.pdb
+C:\Users\itsda\Documents\Sesion 5 020924\UseIf\UseIf\obj\Debug\net8.0\UseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsda\Documents\Sesion 5 020924\UseIf\UseIf\obj\Debug\net8.0\UseIf.AssemblyInfoInputs.cache
+C:\Users\itsda\Documents\Sesion 5 020924\UseIf\UseIf\obj\Debug\net8.0\UseIf.AssemblyInfo.cs
+C:\Users\itsda\Documents\Sesion 5 020924\UseIf\UseIf\obj\Debug\net8.0\UseIf.csproj.CoreCompileInputs.cache
+C:\Users\itsda\Documents\Sesion 5 020924\UseIf\UseIf\obj\Debug\net8.0\UseIf.dll
+C:\Users\itsda\Documents\Sesion 5 020924\UseIf\UseIf\obj\Debug\net8.0\refint\UseIf.dll
+C:\Users\itsda\Documents\Sesion 5 020924\UseIf\UseIf\obj\Debug\net8.0\UseIf.pdb
+C:\Users\itsda\Documents\Sesion 5 020924\UseIf\UseIf\obj\Debug\net8.0\UseIf.genruntimeconfig.cache
+C:\Users\itsda\Documents\Sesion 5 020924\UseIf\UseIf\obj\Debug\net8.0\ref\UseIf.dll
