@@ -1,0 +1,10 @@
+C:\Users\itsda\Desktop\Sesion6\Sesion6\Sesion6\bin\Debug\Ejercicio1.exe.config
+C:\Users\itsda\Desktop\Sesion6\Sesion6\Sesion6\bin\Debug\Ejercicio1.exe
+C:\Users\itsda\Desktop\Sesion6\Sesion6\Sesion6\bin\Debug\Ejercicio1.pdb
+C:\Users\itsda\Desktop\Sesion6\Sesion6\Sesion6\obj\Debug\Sesion6.csproj.AssemblyReference.cache
+C:\Users\itsda\Desktop\Sesion6\Sesion6\Sesion6\obj\Debug\Sesion6.Form1.resources
+C:\Users\itsda\Desktop\Sesion6\Sesion6\Sesion6\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\itsda\Desktop\Sesion6\Sesion6\Sesion6\obj\Debug\Sesion6.csproj.GenerateResource.cache
+C:\Users\itsda\Desktop\Sesion6\Sesion6\Sesion6\obj\Debug\Sesion6.csproj.CoreCompileInputs.cache
+C:\Users\itsda\Desktop\Sesion6\Sesion6\Sesion6\obj\Debug\Ejercicio1.exe
+C:\Users\itsda\Desktop\Sesion6\Sesion6\Sesion6\obj\Debug\Ejercicio1.pdb
