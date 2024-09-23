@@ -1,0 +1,10 @@
+C:\Users\itsda\Desktop\Sesion11230924\Estructuras\Estructuras\obj\Debug\Estructuras.csproj.AssemblyReference.cache
+C:\Users\itsda\Desktop\Sesion11230924\Estructuras\Estructuras\obj\Debug\Estructuras.Form1.resources
+C:\Users\itsda\Desktop\Sesion11230924\Estructuras\Estructuras\obj\Debug\Estructuras.Properties.Resources.resources
+C:\Users\itsda\Desktop\Sesion11230924\Estructuras\Estructuras\obj\Debug\Estructuras.csproj.GenerateResource.cache
+C:\Users\itsda\Desktop\Sesion11230924\Estructuras\Estructuras\obj\Debug\Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\itsda\Desktop\Sesion11230924\Estructuras\Estructuras\bin\Debug\Estructuras.exe.config
+C:\Users\itsda\Desktop\Sesion11230924\Estructuras\Estructuras\bin\Debug\Estructuras.exe
+C:\Users\itsda\Desktop\Sesion11230924\Estructuras\Estructuras\bin\Debug\Estructuras.pdb
+C:\Users\itsda\Desktop\Sesion11230924\Estructuras\Estructuras\obj\Debug\Estructuras.exe
+C:\Users\itsda\Desktop\Sesion11230924\Estructuras\Estructuras\obj\Debug\Estructuras.pdb
